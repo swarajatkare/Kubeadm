@@ -5,7 +5,7 @@
 set -e
 
 source /etc/lsb-release
-if [ "$DISTRIB_RELEASE" != "22.04" ]; then
+if [ "$DISTRIB_RELEASE" != "22.04.4 LTS" ]; then
     echo "################################# "
     echo "############ WARNING ############ "
     echo "################################# "
