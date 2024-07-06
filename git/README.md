@@ -57,7 +57,7 @@ git config --global user.name "Github's username"
 
 git config --global user.email email 
 
-git config –list
+git config --list
 ```
 ## Demo
 
